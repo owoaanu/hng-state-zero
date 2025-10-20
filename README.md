@@ -53,15 +53,11 @@ Then visit (browser,postman,insomnia, etc):
 
 🧩 Dependencies
 
-Django
-
-Django REST Framework
-
-python-dotenv
-
-requests
-
-gunicorn (for deployment)
+- Django
+- Django REST Framework
+- python-dotenv
+- requests
+- gunicorn (for deployment)
 
 🌐 Environment Variables
 Variable	Description	Example
