@@ -64,8 +64,8 @@ requests
 gunicorn (for deployment)
 
 🌐 Environment Variables
+Variable	Description	Example
 ```
-  Variable	Description	Example
   EMAIL	Your email address	me@example.com
   NAME	Your full name	John Doe
   STACK	Backend stack	Python/Django
