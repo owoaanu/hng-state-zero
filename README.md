@@ -69,7 +69,8 @@ Variable	Description	Example
   EMAIL	Your email address	me@example.com
   NAME	Your full name	John Doe
   STACK	Backend stack	Python/Django
-  CATFACT_API_URL	Cat Facts API URL	https://catfact.ninja/fact
+  CATFACT_API_URL	Cat Facts
+  API URL	https://catfact.ninja/fact
 ```
 🧪 Tests
 
@@ -84,11 +85,11 @@ If the external Cat Facts API fails, the endpoint returns a fallback message lik
 
 🌍 Deployment
 
-Hosted on Railway:
+Hosted on Railway, check it out here:
 👉 https://hng-state-zero-production.up.railway.app/me
 
 🧑‍💻 Author
 
-Your Name
-Email: youremail@example.com
+Samuel O. Adebayo-Adesina
+Email: sam.adebayoadesina@gmail.com
 Stack: Python/Django
