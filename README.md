@@ -37,11 +37,12 @@ pip install -r requirements.txt
 4. Configure environment variables
 
 Create a .env file in the root directory:
-
-EMAIL=youremail@example.com
-NAME=Your Full Name
-STACK=Python/Django
-CATFACT_API_URL=https://catfact.ninja/fact
+```
+  EMAIL=youremail@example.com
+  NAME=Your Full Name
+  STACK=Python/Django
+  CATFACT_API_URL=https://catfact.ninja/fact
+```
 
 5. Run the server
 python manage.py runserver
@@ -63,16 +64,17 @@ requests
 gunicorn (for deployment)
 
 🌐 Environment Variables
-Variable	Description	Example
-EMAIL	Your email address	me@example.com
-NAME	Your full name	John Doe
-STACK	Backend stack	Python/Django
-CATFACT_API_URL	Cat Facts API URL	https://catfact.ninja/fact
+```
+  Variable	Description	Example
+  EMAIL	Your email address	me@example.com
+  NAME	Your full name	John Doe
+  STACK	Backend stack	Python/Django
+  CATFACT_API_URL	Cat Facts API URL	https://catfact.ninja/fact
+```
 🧪 Tests
 
 You can test the endpoint using:
-
-curl http://127.0.0.1:8000/me
+`curl http://127.0.0.1:8000/me`
 
 📝 Notes
 
