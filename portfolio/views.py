@@ -12,6 +12,13 @@ import logging
 logger = logging.getLogger(__name__)
 # Create your views here.
 @api_view(['GET'])
+def home(request):
+
+    return Response(
+        {"info":"this application is for viewing my profile and a fun fact about cats. Use this endpoint '/me'"}
+    )
+
+@api_view(['GET'])
 def my_profile(request):
     cat_fact = ''
 

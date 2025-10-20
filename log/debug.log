@@ -4,3 +4,26 @@ File /home/edsu-dev/Documents/dev/HNG/accounts/accounts/settings.py previous mti
 [2025-10-20 19:18:09,224] INFO in autoreload: Watching for file changes with StatReloader
 [2025-10-20 19:18:25,130] INFO in views: Fetched cat fact successfully
 [2025-10-20 19:18:38,103] ERROR in views: Connection Error - Failed to fetch cat fact: HTTPSConnectionPool(host='catfact.ninja', port=443): Max retries exceeded with url: /fact (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8c9e59aad0>: Failed to resolve 'catfact.ninja' ([Errno -3] Temporary failure in name resolution)"))
+[2025-10-20 20:09:14,044] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:09:22,477] WARNING in log: Not Found: /
+[2025-10-20 20:09:34,609] INFO in autoreload: /home/edsu-dev/Documents/dev/HNG/accounts/accounts/urls.py changed, reloading.
+[2025-10-20 20:09:35,423] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:09:37,839] INFO in autoreload: /home/edsu-dev/Documents/dev/HNG/accounts/accounts/urls.py changed, reloading.
+[2025-10-20 20:09:38,517] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:09:40,823] INFO in autoreload: /home/edsu-dev/Documents/dev/HNG/accounts/accounts/urls.py changed, reloading.
+[2025-10-20 20:09:41,440] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:09:43,716] INFO in autoreload: /home/edsu-dev/Documents/dev/HNG/accounts/accounts/urls.py changed, reloading.
+[2025-10-20 20:09:44,347] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:09:45,550] INFO in autoreload: /home/edsu-dev/Documents/dev/HNG/accounts/accounts/urls.py changed, reloading.
+[2025-10-20 20:09:46,434] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:09:47,658] WARNING in log: Not Found: /
+[2025-10-20 20:09:48,684] WARNING in log: Not Found: /
+[2025-10-20 20:10:04,944] WARNING in log: Not Found: /
+[2025-10-20 20:10:36,363] INFO in autoreload: /home/edsu-dev/Documents/dev/HNG/accounts/accounts/urls.py changed, reloading.
+[2025-10-20 20:10:37,000] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:10:52,549] INFO in autoreload: /home/edsu-dev/Documents/dev/HNG/accounts/portfolio/views.py changed, reloading.
+[2025-10-20 20:10:53,195] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:11:00,705] INFO in autoreload: /home/edsu-dev/Documents/dev/HNG/accounts/portfolio/views.py changed, reloading.
+[2025-10-20 20:11:01,423] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:11:02,892] INFO in autoreload: /home/edsu-dev/Documents/dev/HNG/accounts/portfolio/views.py changed, reloading.
+[2025-10-20 20:11:03,659] INFO in autoreload: Watching for file changes with StatReloader

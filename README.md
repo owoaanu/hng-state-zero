@@ -80,7 +80,7 @@ If the external Cat Facts API fails, the endpoint returns a fallback message lik
 🌍 Deployment
 
 Hosted on Railway:
-👉 https://stage0-api-production.up.railway.app/me
+👉 https://hng-state-zero-production.up.railway.app/me
 
 🧑‍💻 Author
 
