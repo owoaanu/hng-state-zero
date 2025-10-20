@@ -27,3 +27,5 @@ File /home/edsu-dev/Documents/dev/HNG/accounts/accounts/settings.py previous mti
 [2025-10-20 20:11:01,423] INFO in autoreload: Watching for file changes with StatReloader
 [2025-10-20 20:11:02,892] INFO in autoreload: /home/edsu-dev/Documents/dev/HNG/accounts/portfolio/views.py changed, reloading.
 [2025-10-20 20:11:03,659] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:20:57,745] INFO in autoreload: Watching for file changes with StatReloader
+[2025-10-20 20:21:13,942] WARNING in log: Not Found: /favicon.ico
