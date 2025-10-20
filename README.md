@@ -21,7 +21,7 @@ Example Response
 
 🚀 Running Locally
 1. Clone this repo
-git clone https://github.com/yourusername/stage0-django-api.git
+git remote add origin https://github.com/owoaanu/hng-state-zero.git
 cd stage0-django-api
 
 2. Create and activate a virtual environment
