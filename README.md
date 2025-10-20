@@ -8,16 +8,19 @@ Endpoint
 GET /me
 
 Example Response
-{
-  "status": "success",
-  "user": {
-    "email": "youremail@example.com",
-    "name": "Your Full Name",
-    "stack": "Python/Django"
-  },
-  "timestamp": "2025-10-18T12:34:56.789Z",
-  "fact": "Cats sleep for 70% of their lives."
-}
+```
+  {
+    "status": "success",
+    "user": {
+      "email": "youremail@example.com",
+      "name": "Your Full Name",
+      "stack": "Python/Django"
+    },
+    "timestamp": "2025-10-18T12:34:56.789Z",
+    "fact": "Cats sleep for 70% of their lives."
+  }
+
+```
 
 🚀 Running Locally
 1. Clone this repo
